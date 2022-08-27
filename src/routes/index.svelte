@@ -38,7 +38,7 @@
 	$: date = dateFormatter.format(now);
 	$: time = timeFormatter.format(now);
 
-	const data = useLanyard({ method: 'ws', id: '524722785302609941' });
+	const data = useLanyard({ method: 'ws', id: '893762371770802227' });
 	$: codeData = getCodeData($data);
 	$: otherActivities = getOtherActivities($data);
 </script>
