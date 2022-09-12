@@ -132,6 +132,11 @@
 						description="bun version manager"
 					/>
 					<ProjectItem
+						href="https://github.com/CompeyDev/roblox.js"
+						name="bvm"
+						description="roblox opencloud js wrapper"
+					/>
+					<ProjectItem
 						href="https://github.com/CompeyDev/discord-status-action"
 						name="discord-status-action"
 						description="discord status emoji using GitHub Actions"
