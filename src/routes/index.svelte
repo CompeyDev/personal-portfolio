@@ -133,7 +133,7 @@
 					/>
 					<ProjectItem
 						href="https://github.com/CompeyDev/roblox.js"
-						name="bvm"
+						name="roblox.js"
 						description="roblox opencloud js wrapper"
 					/>
 					<ProjectItem
