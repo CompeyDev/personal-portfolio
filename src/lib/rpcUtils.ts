@@ -37,6 +37,6 @@ export const getCodeData = (data?: LanyardData): VSCodeData | undefined => {
 }
 
 export const getOtherActivities = (data?: LanyardData): Activity[] | undefined => {
-    const otherActivities = data?.activities.filter(a => a.application_id !== '782685898163617802' && a.type === 0);
+    const otherActivities = data?.activities.filter(a => a.application_id !== '782685898163617802' && a.application_id !== '498994022048727050' && a.type === 0);
     return otherActivities?.map(activity => ({ name: activity.name, start: activity.timestamps ? new Date(activity.timestamps.start) : undefined }));
 }
