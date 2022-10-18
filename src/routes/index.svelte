@@ -141,6 +141,13 @@
 						name="discord-status-action"
 						description="discord status emoji using GitHub Actions"
 					/>
+					<ProjectItem
+						href="https://github.com/CompeyDev/rojo-build-action"
+						name="discord-status-action"
+						description="build rojo projects using GitHub actions"
+					/>
+					
+					
 				</ul>
 			</div>
 
