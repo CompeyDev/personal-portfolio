@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 
-	import '../app.css';
+	import '../global.css';
 	onMount(() => {
 		onblur = () => {
 			document.body.className =

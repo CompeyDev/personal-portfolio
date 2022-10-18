@@ -18,7 +18,13 @@
 html {
 	scrollbar-color: hsla(0, 0%, 100%, 0.289) transparent;
 	scrollbar-width: thin;
-	
+	font-family: CaskaydiaCove Nerd Font Mono;
+	color: #A7ADBA;
+	background-color: #1f1f1f;
+}
+
+.heading {
+	color: white
 }
 
 ::-webkit-scrollbar {
