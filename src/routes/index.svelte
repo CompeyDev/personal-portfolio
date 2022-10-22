@@ -143,7 +143,7 @@
 					/>
 					<ProjectItem
 						href="https://github.com/CompeyDev/rojo-build-action"
-						name="discord-status-action"
+						name="rojo-build-action"
 						description="build rojo projects using GitHub actions"
 					/>
 					
